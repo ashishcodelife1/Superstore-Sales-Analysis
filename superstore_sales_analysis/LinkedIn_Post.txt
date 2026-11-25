@@ -1,0 +1,19 @@
+Completed my Business Sales Data Analysis project as part of my Future Interns internship task.
+
+I analyzed the Sample Superstore dataset to understand sales, profit, product performance, regional performance and trends over time.
+
+Key outcomes:
+• Analyzed 9,994 transaction records across 2014–2017.
+• Total sales: $2,297,200.86
+• Total profit: $286,397.02
+• Overall profit margin: 12.47%
+• Identified Technology as the leading category by profit and highlighted loss-making sub-categories for further review.
+• Built an Excel dashboard and prepared a business analysis report with actionable recommendations.
+
+Tools used: Python, pandas, Excel and data visualization.
+
+This project helped me practice data cleaning, KPI analysis, trend analysis, dashboard development and business storytelling.
+
+Thank you Future Interns for the opportunity to work on a practical business analytics task.
+
+#FutureInterns #DataAnalytics #Excel #Python #BusinessIntelligence #DataVisualization #DataAnalyst

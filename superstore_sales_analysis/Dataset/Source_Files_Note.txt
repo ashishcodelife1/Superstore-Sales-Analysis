@@ -1,0 +1,4 @@
+archive.zip: Sample - Superstore.csv (9,994 x 21), selected primary dataset.
+archive (1).zip: data.csv (541,909 x 8), Online Retail dataset.
+archive(1).zip: online_retail.csv (541,909 x 8), alternate representation of the same Online Retail dataset.
+The two Online Retail files were not merged with Superstore.
